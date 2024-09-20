@@ -102,4 +102,5 @@ body {
   .Information ol{
       font-size: 20px;
       text-align: center;
+      height: auto;
   }
