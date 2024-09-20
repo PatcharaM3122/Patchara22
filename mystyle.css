@@ -1,0 +1,105 @@
+body {
+    background
+  }
+  
+  .containermain {
+      background-color:  ;
+      width: 100 px;
+      height: 1200px;
+      margin-left: 315px;
+      margin-right: 400px;
+  
+      color: #b5dff0 ;
+  }
+  
+  .container1 {
+      background-color: rgb(138, 177, 190);
+      width: 100 px;
+      height: 1200px;
+  
+  
+      border: 20px solid #ffffff ;
+      color: rgb(226, 236, 255);
+  }
+  .containerlink{
+    background-color: lightblue;
+    width: 100;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+
+
+  }
+  
+  
+  
+  
+  
+  .title {
+      text-align: center;
+      font-size: 35px;
+      color: #c1dbeb    ;
+      background-color: #20535a ;
+      text-shadow: 0 0 5px rgb(21, 47, 65) ;
+  
+  
+  
+  }
+  
+  
+  
+  .profile img {
+      padding-left: 310px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+  }
+  
+  .Menu {
+
+    text-align: center;
+  }
+  }
+  .Menu button{
+    display: inline-flex;
+    font-size: 50px;
+    max-width: 500px;
+    margin: 20px;
+
+    border-left: black;
+    border-top: black;
+    border-radius: 12px;
+    border-width: 7px;
+  }
+  .btn1{
+    background-color: red;
+  }
+  .Menu li{
+    display: flex;
+    font-family: cursive;
+  }
+  
+  
+ 
+  .Quote {
+      list-style-type: none;
+      display: flex;
+      text-align: center;
+  
+  }
+  
+  .Quote ol{
+      text-align: center;
+      font-size: 35px;
+      color: #182d3a   ;
+      
+  
+  
+  
+  }
+  
+  
+  
+  .Information ol{
+      font-size: 20px;
+      text-align: center;
+  }
